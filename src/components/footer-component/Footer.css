@@ -1,0 +1,57 @@
+
+
+#footer li a{
+    color: #ffffff!important;
+}
+
+#footer li a:hover{
+    color: #0fbcf9!important;
+}
+
+#footer .mystyle{
+    color: #ffffff!important;
+}
+
+#footer .mystyle:hover{
+    color: #0fbcf9!important;
+}
+
+#footer .big-hr{
+    margin-top: 1%;
+    border-top: 1px solid #ffffff;
+    width: 50%;
+    opacity: 0.5;
+}
+
+
+/*#footer .nav-link{*/
+    /*font-weight: 600;*/
+    /*opacity: 1;*/
+    /*width: 100%;*/
+    /*transition: .3s;*/
+    /*transition-property: all;*/
+    /*transition-duration: 0.3s;*/
+    /*transition-timing-function: ease;*/
+    /*transition-delay: 0s;*/
+    /*-webkit-box-flex: 1;*/
+    /*flex-grow: 1;*/
+    /*font-size: 12px;*/
+    /*letter-spacing: 1.6px;*/
+/*}*/
+
+#footer i{
+    border: none;
+}
+
+#footer .mtb{
+    padding: 4% 2% 2% 2%;
+}
+
+#footer small{
+    font-size: 0.75rem;
+}
+
+.fs-50{
+    font-size: 50px;
+}
+
